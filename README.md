@@ -1,4 +1,4 @@
-# Hi there, I'm Trần Hồng Thái👋
+# Hi there, I'm Tran HOng Thai👋
 
 ## About me
 - 🔭 I’m currently working on University of transport and communicaions

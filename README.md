@@ -1,7 +1,7 @@
 # Hi there, I'm Tran Hong Thai👋
 
 ## About me
-- 🔭 I’m currently working on University of transport and communicaions
+- 🔭 I’m currently working on University of transport and communications
 - 🌱 I’m currently learning backend web
 - 📌 I'm a web developer who is passionate about becoming a full-stack web developer
 - 📫 How to reach me: https://www.facebook.com/hongthai.tran.56808 or thaitran15072003@gmail.com
